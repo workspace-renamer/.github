@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="560" viewBox="0 0 920 560" role="img" aria-labelledby="title desc">
+  <title id="title">space-renamer dark mode placeholder</title>
+  <desc id="desc">Placeholder preview for the dark mode workspace editor.</desc>
+  <rect width="920" height="560" rx="24" fill="#15191d"/>
+  <rect x="80" y="56" width="760" height="448" rx="16" fill="#20262c" stroke="#3b454e" stroke-width="2"/>
+  <rect x="80" y="56" width="760" height="64" rx="16" fill="#293138"/>
+  <circle cx="112" cy="88" r="8" fill="#ff5f57"/><circle cx="140" cy="88" r="8" fill="#febc2e"/><circle cx="168" cy="88" r="8" fill="#28c840"/>
+  <text x="460" y="96" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="20" font-weight="600" fill="#eef2f4">space-renamer</text>
+  <rect x="112" y="152" width="180" height="312" rx="12" fill="#1a2025"/>
+  <text x="136" y="190" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="16" font-weight="600" fill="#eef2f4">Workspaces</text>
+  <rect x="136" y="216" width="132" height="36" rx="8" fill="#21484c"/><text x="152" y="239" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" fill="#8fe0db">● Current</text>
+  <text x="136" y="284" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" fill="#aab5bd">Activity</text><text x="136" y="320" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" fill="#aab5bd">Storage</text><text x="136" y="356" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" fill="#aab5bd">Settings</text>
+  <text x="332" y="180" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="24" font-weight="600" fill="#eef2f4">Your Spaces</text>
+  <text x="332" y="208" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" fill="#aab5bd">Temporary preview — final UI coming soon</text>
+  <rect x="332" y="240" width="460" height="72" rx="12" fill="#252d33" stroke="#3b454e"/><text x="356" y="267" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#aab5bd">DISPLAY 1 · ACTIVE</text><text x="356" y="292" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="18" font-weight="600" fill="#eef2f4">Focus</text>
+  <rect x="332" y="328" width="460" height="72" rx="12" fill="#252d33" stroke="#3b454e"/><text x="356" y="355" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#aab5bd">DISPLAY 1</text><text x="356" y="380" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="18" fill="#eef2f4">Research</text>
+</svg>
